@@ -1,0 +1,2 @@
+# NamePipeClient
+パイプラインのクライアント
